@@ -1,0 +1,1015 @@
+2011-08-20 11:48:23 [INFO] Starting minecraft server version Beta 1.7.3
+2011-08-20 11:48:23 [INFO] Loading properties
+2011-08-20 11:48:23 [WARNING] server.properties does not exist
+2011-08-20 11:48:23 [INFO] Generating new properties file
+2011-08-20 11:48:23 [INFO] Starting Minecraft server on *:25565
+2011-08-20 11:48:23 [WARNING] Failed to load ban list: java.io.FileNotFoundException: banned-players.txt (No such file or directory)
+2011-08-20 11:48:23 [WARNING] Failed to load ip ban list: java.io.FileNotFoundException: banned-ips.txt (No such file or directory)
+2011-08-20 11:48:23 [WARNING] Failed to load ip ban list: java.io.FileNotFoundException: ops.txt (No such file or directory)
+2011-08-20 11:48:23 [WARNING] Failed to load white-list: java.io.FileNotFoundException: white-list.txt (No such file or directory)
+2011-08-20 11:48:23 [INFO] Preparing level "world"
+2011-08-20 11:48:24 [INFO] Preparing start region for level 0
+2011-08-20 11:48:25 [INFO] Preparing spawn area: 4%
+2011-08-20 11:48:26 [INFO] Preparing spawn area: 4%
+2011-08-20 11:48:27 [INFO] Preparing spawn area: 8%
+2011-08-20 11:48:28 [INFO] Preparing spawn area: 8%
+2011-08-20 11:48:29 [INFO] Preparing spawn area: 8%
+2011-08-20 11:48:30 [INFO] Preparing spawn area: 12%
+2011-08-20 11:48:31 [INFO] Preparing spawn area: 12%
+2011-08-20 11:48:32 [INFO] Preparing spawn area: 12%
+2011-08-20 11:48:34 [INFO] Preparing spawn area: 16%
+2011-08-20 11:48:35 [INFO] Preparing spawn area: 16%
+2011-08-20 11:48:36 [INFO] Preparing spawn area: 20%
+2011-08-20 11:48:37 [INFO] Preparing spawn area: 20%
+2011-08-20 11:48:38 [INFO] Preparing spawn area: 20%
+2011-08-20 11:48:39 [INFO] Preparing spawn area: 24%
+2011-08-20 11:48:41 [INFO] Preparing spawn area: 24%
+2011-08-20 11:48:42 [INFO] Preparing spawn area: 28%
+2011-08-20 11:48:43 [INFO] Preparing spawn area: 28%
+2011-08-20 11:48:44 [INFO] Preparing spawn area: 28%
+2011-08-20 11:48:45 [INFO] Preparing spawn area: 32%
+2011-08-20 11:48:46 [INFO] Preparing spawn area: 32%
+2011-08-20 11:48:47 [INFO] Preparing spawn area: 32%
+2011-08-20 11:48:48 [INFO] Preparing spawn area: 36%
+2011-08-20 11:48:49 [INFO] Preparing spawn area: 36%
+2011-08-20 11:48:50 [INFO] Preparing spawn area: 36%
+2011-08-20 11:48:51 [INFO] Preparing spawn area: 40%
+2011-08-20 11:48:52 [INFO] Preparing spawn area: 40%
+2011-08-20 11:48:53 [INFO] Preparing spawn area: 40%
+2011-08-20 11:48:55 [INFO] Preparing spawn area: 44%
+2011-08-20 11:48:56 [INFO] Preparing spawn area: 44%
+2011-08-20 11:48:57 [INFO] Preparing spawn area: 44%
+2011-08-20 11:48:58 [INFO] Preparing spawn area: 44%
+2011-08-20 11:48:59 [INFO] Preparing spawn area: 48%
+2011-08-20 11:49:00 [INFO] Preparing spawn area: 48%
+2011-08-20 11:49:01 [INFO] Preparing spawn area: 48%
+2011-08-20 11:49:03 [INFO] Preparing spawn area: 52%
+2011-08-20 11:49:04 [INFO] Preparing spawn area: 52%
+2011-08-20 11:49:05 [INFO] Preparing spawn area: 52%
+2011-08-20 11:49:06 [INFO] Preparing spawn area: 53%
+2011-08-20 11:49:08 [INFO] Preparing spawn area: 56%
+2011-08-20 11:49:10 [INFO] Preparing spawn area: 56%
+2011-08-20 11:49:11 [INFO] Preparing spawn area: 57%
+2011-08-20 11:49:12 [INFO] Preparing spawn area: 57%
+2011-08-20 11:49:13 [INFO] Preparing spawn area: 61%
+2011-08-20 11:49:14 [INFO] Preparing spawn area: 61%
+2011-08-20 11:49:15 [INFO] Preparing spawn area: 61%
+2011-08-20 11:49:16 [INFO] Preparing spawn area: 61%
+2011-08-20 11:49:17 [INFO] Preparing spawn area: 65%
+2011-08-20 11:49:19 [INFO] Preparing spawn area: 65%
+2011-08-20 11:49:20 [INFO] Preparing spawn area: 65%
+2011-08-20 11:49:21 [INFO] Preparing spawn area: 65%
+2011-08-20 11:49:22 [INFO] Preparing spawn area: 69%
+2011-08-20 11:49:23 [INFO] Preparing spawn area: 69%
+2011-08-20 11:49:24 [INFO] Preparing spawn area: 69%
+2011-08-20 11:49:25 [INFO] Preparing spawn area: 73%
+2011-08-20 11:49:27 [INFO] Preparing spawn area: 73%
+2011-08-20 11:49:28 [INFO] Preparing spawn area: 73%
+2011-08-20 11:49:29 [INFO] Preparing spawn area: 77%
+2011-08-20 11:49:30 [INFO] Preparing spawn area: 77%
+2011-08-20 11:49:31 [INFO] Preparing spawn area: 77%
+2011-08-20 11:49:33 [INFO] Preparing spawn area: 81%
+2011-08-20 11:49:34 [INFO] Preparing spawn area: 81%
+2011-08-20 11:49:35 [INFO] Preparing spawn area: 81%
+2011-08-20 11:49:36 [INFO] Preparing spawn area: 81%
+2011-08-20 11:49:37 [INFO] Preparing spawn area: 85%
+2011-08-20 11:49:38 [INFO] Preparing spawn area: 85%
+2011-08-20 11:49:39 [INFO] Preparing spawn area: 89%
+2011-08-20 11:49:40 [INFO] Preparing spawn area: 89%
+2011-08-20 11:49:42 [INFO] Preparing spawn area: 89%
+2011-08-20 11:49:43 [INFO] Preparing spawn area: 93%
+2011-08-20 11:49:44 [INFO] Preparing spawn area: 93%
+2011-08-20 11:49:45 [INFO] Preparing spawn area: 93%
+2011-08-20 11:49:46 [INFO] Preparing spawn area: 97%
+2011-08-20 11:49:47 [INFO] Preparing spawn area: 97%
+2011-08-20 11:49:48 [INFO] Preparing spawn area: 97%
+2011-08-20 11:49:49 [INFO] Preparing start region for level 1
+2011-08-20 11:49:49 [INFO] Preparing spawn area: 3%
+2011-08-20 11:49:52 [INFO] Preparing spawn area: 3%
+2011-08-20 11:49:53 [INFO] Preparing spawn area: 8%
+2011-08-20 11:49:55 [INFO] Preparing spawn area: 8%
+2011-08-20 11:49:56 [INFO] Preparing spawn area: 12%
+2011-08-20 11:49:59 [INFO] Preparing spawn area: 12%
+2011-08-20 11:50:00 [INFO] Preparing spawn area: 16%
+2011-08-20 11:50:01 [INFO] Preparing spawn area: 20%
+2011-08-20 11:50:05 [INFO] Preparing spawn area: 20%
+2011-08-20 11:50:08 [INFO] Preparing spawn area: 20%
+2011-08-20 11:50:10 [INFO] Preparing spawn area: 24%
+2011-08-20 11:50:12 [INFO] Preparing spawn area: 24%
+2011-08-20 11:50:13 [INFO] Preparing spawn area: 28%
+2011-08-20 11:50:14 [INFO] Preparing spawn area: 32%
+2011-08-20 11:50:26 [INFO] Preparing spawn area: 32%
+2011-08-20 11:50:28 [INFO] Preparing spawn area: 32%
+2011-08-20 11:50:32 [INFO] Preparing spawn area: 36%
+2011-08-20 11:50:38 [INFO] Preparing spawn area: 36%
+2011-08-20 11:50:45 [INFO] Preparing spawn area: 40%
+2011-08-20 11:50:46 [INFO] Preparing spawn area: 40%
+2011-08-20 11:50:50 [INFO] Preparing spawn area: 44%
+2011-08-20 11:50:51 [INFO] Preparing spawn area: 44%
+2011-08-20 11:50:52 [INFO] Preparing spawn area: 44%
+2011-08-20 11:50:53 [INFO] Preparing spawn area: 44%
+2011-08-20 11:50:54 [INFO] Preparing spawn area: 44%
+2011-08-20 11:50:56 [INFO] Preparing spawn area: 48%
+2011-08-20 11:50:58 [INFO] Preparing spawn area: 48%
+2011-08-20 11:50:59 [INFO] Preparing spawn area: 48%
+2011-08-20 11:51:00 [INFO] Preparing spawn area: 48%
+2011-08-20 11:51:02 [INFO] Preparing spawn area: 52%
+2011-08-20 11:51:03 [INFO] Preparing spawn area: 53%
+2011-08-20 11:51:04 [INFO] Preparing spawn area: 56%
+2011-08-20 11:51:14 [INFO] Preparing spawn area: 56%
+2011-08-20 11:51:15 [INFO] Preparing spawn area: 56%
+2011-08-20 11:51:17 [INFO] Preparing spawn area: 57%
+2011-08-20 11:51:18 [INFO] Preparing spawn area: 57%
+2011-08-20 11:51:20 [INFO] Preparing spawn area: 61%
+2011-08-20 11:51:27 [INFO] Preparing spawn area: 61%
+2011-08-20 11:51:28 [INFO] Preparing spawn area: 61%
+2011-08-20 11:51:30 [INFO] Preparing spawn area: 61%
+2011-08-20 11:51:31 [INFO] Preparing spawn area: 65%
+2011-08-20 11:51:35 [INFO] Preparing spawn area: 65%
+2011-08-20 11:51:36 [INFO] Preparing spawn area: 65%
+2011-08-20 11:51:37 [INFO] Preparing spawn area: 69%
+2011-08-20 11:51:38 [INFO] Preparing spawn area: 69%
+2011-08-20 11:51:40 [INFO] Preparing spawn area: 69%
+2011-08-20 11:51:43 [INFO] Preparing spawn area: 69%
+2011-08-20 11:51:44 [INFO] Preparing spawn area: 69%
+2011-08-20 11:51:45 [INFO] Preparing spawn area: 73%
+2011-08-20 11:51:47 [INFO] Preparing spawn area: 73%
+2011-08-20 11:51:49 [INFO] Preparing spawn area: 73%
+2011-08-20 11:51:51 [INFO] Preparing spawn area: 73%
+2011-08-20 11:51:52 [INFO] Preparing spawn area: 73%
+2011-08-20 11:51:53 [INFO] Preparing spawn area: 77%
+2011-08-20 11:51:55 [INFO] Preparing spawn area: 77%
+2011-08-20 11:51:56 [INFO] Preparing spawn area: 77%
+2011-08-20 11:51:57 [INFO] Preparing spawn area: 77%
+2011-08-20 11:51:58 [INFO] Preparing spawn area: 77%
+2011-08-20 11:51:59 [INFO] Preparing spawn area: 81%
+2011-08-20 11:52:02 [INFO] Preparing spawn area: 81%
+2011-08-20 11:52:03 [INFO] Preparing spawn area: 81%
+2011-08-20 11:52:05 [INFO] Preparing spawn area: 85%
+2011-08-20 11:52:06 [INFO] Preparing spawn area: 85%
+2011-08-20 11:52:11 [INFO] Preparing spawn area: 85%
+2011-08-20 11:52:13 [INFO] Preparing spawn area: 85%
+2011-08-20 11:52:14 [INFO] Preparing spawn area: 89%
+2011-08-20 11:52:16 [INFO] Preparing spawn area: 89%
+2011-08-20 11:52:17 [INFO] Preparing spawn area: 89%
+2011-08-20 11:52:18 [INFO] Preparing spawn area: 89%
+2011-08-20 11:52:20 [INFO] Preparing spawn area: 93%
+2011-08-20 11:52:21 [INFO] Preparing spawn area: 93%
+2011-08-20 11:52:22 [INFO] Preparing spawn area: 93%
+2011-08-20 11:52:24 [INFO] Preparing spawn area: 93%
+2011-08-20 11:52:25 [INFO] Preparing spawn area: 93%
+2011-08-20 11:52:27 [INFO] Preparing spawn area: 93%
+2011-08-20 11:52:29 [INFO] Preparing spawn area: 97%
+2011-08-20 11:52:30 [INFO] Preparing spawn area: 97%
+2011-08-20 11:52:32 [INFO] Preparing spawn area: 97%
+2011-08-20 11:52:33 [INFO] Preparing spawn area: 97%
+2011-08-20 11:52:35 [INFO] Preparing spawn area: 97%
+2011-08-20 11:52:36 [INFO] Preparing spawn area: 97%
+2011-08-20 11:52:37 [INFO] Done (254009226004ns)! For help, type "help" or "?"
+2011-08-20 11:52:53 [INFO] akofink [/152.7.5.138:43030] logged in with entity id 5260 at (-81.5, 72.62000000476837, 201.5)
+2011-08-20 11:53:35 [INFO] To run the server without a gui, start it like this:
+2011-08-20 11:53:35 [INFO]    java -Xmx1024M -Xms1024M -jar minecraft_server.jar nogui
+2011-08-20 11:53:35 [INFO] Console commands:
+2011-08-20 11:53:35 [INFO]    help  or  ?               shows this message
+2011-08-20 11:53:35 [INFO]    kick <player>             removes a player from the server
+2011-08-20 11:53:35 [INFO]    ban <player>              bans a player from the server
+2011-08-20 11:53:35 [INFO]    pardon <player>           pardons a banned player so that they can connect again
+2011-08-20 11:53:35 [INFO]    ban-ip <ip>               bans an IP address from the server
+2011-08-20 11:53:35 [INFO]    pardon-ip <ip>            pardons a banned IP address so that they can connect again
+2011-08-20 11:53:35 [INFO]    op <player>               turns a player into an op
+2011-08-20 11:53:35 [INFO]    deop <player>             removes op status from a player
+2011-08-20 11:53:35 [INFO]    tp <player1> <player2>    moves one player to the same location as another player
+2011-08-20 11:53:35 [INFO]    give <player> <id> [num]  gives a player a resource
+2011-08-20 11:53:35 [INFO]    tell <player> <message>   sends a private message to a player
+2011-08-20 11:53:35 [INFO]    stop                      gracefully stops the server
+2011-08-20 11:53:35 [INFO]    save-all                  forces a server-wide level save
+2011-08-20 11:53:35 [INFO]    save-off                  disables terrain saving (useful for backup scripts)
+2011-08-20 11:53:35 [INFO]    save-on                   re-enables terrain saving
+2011-08-20 11:53:35 [INFO]    list                      lists all currently connected players
+2011-08-20 11:53:35 [INFO]    say <message>             broadcasts a message to all players
+2011-08-20 11:53:35 [INFO]    time <add|set> <amount>   adds to or sets the world time (0-24000)
+2011-08-20 11:53:45 [INFO] CONSOLE: Opping akofink
+2011-08-20 11:53:58 [INFO] akofink issued server command: say hello
+2011-08-20 11:53:58 [INFO] [akofink] hello
+2011-08-20 11:54:32 [INFO] akofink issued server command: give akofink 57 64
+2011-08-20 11:54:32 [INFO] akofink: Giving akofink some 57
+2011-08-20 11:56:17 [INFO] akofink issued server command: give akofink 330
+2011-08-20 11:56:17 [INFO] akofink: Giving akofink some 330
+2011-08-20 11:58:22 [INFO] akofink issued server command: give akofink 71
+2011-08-20 11:58:22 [INFO] akofink: Giving akofink some 71
+2011-08-20 11:58:50 [INFO] akofink issued server command: give akofink 276
+2011-08-20 11:58:50 [INFO] akofink: Giving akofink some 276
+2011-08-20 11:58:58 [INFO] akofink issued server command: give akofink 277
+2011-08-20 11:58:58 [INFO] akofink: Giving akofink some 277
+2011-08-20 11:59:07 [INFO] akofink issued server command: give akofink 278
+2011-08-20 11:59:07 [INFO] akofink: Giving akofink some 278
+2011-08-20 11:59:13 [INFO] akofink issued server command: give akofink 279
+2011-08-20 11:59:13 [INFO] akofink: Giving akofink some 279
+2011-08-20 11:59:30 [INFO] akofink issued server command: give akofink 293
+2011-08-20 11:59:30 [INFO] akofink: Giving akofink some 293
+2011-08-20 12:02:11 [INFO] akofink issued server command: give akofink 310
+2011-08-20 12:02:11 [INFO] akofink: Giving akofink some 310
+2011-08-20 12:02:15 [INFO] akofink issued server command: give akofink 311
+2011-08-20 12:02:15 [INFO] akofink: Giving akofink some 311
+2011-08-20 12:02:19 [INFO] akofink issued server command: give akofink 312
+2011-08-20 12:02:19 [INFO] akofink: Giving akofink some 312
+2011-08-20 12:02:24 [INFO] akofink issued server command: give akofink 313
+2011-08-20 12:02:24 [INFO] akofink: Giving akofink some 313
+2011-08-20 12:03:27 [INFO] akofink issued server command: give akofink 50 64
+2011-08-20 12:03:27 [INFO] akofink: Giving akofink some 50
+2011-08-20 12:04:57 [INFO] akofink issued server command: time set 7000
+2011-08-20 12:04:57 [INFO] akofink: Set time to 7000
+2011-08-20 12:05:49 [INFO] akofink issued server command: give akofink 57 64
+2011-08-20 12:05:49 [INFO] akofink: Giving akofink some 57
+2011-08-20 12:05:54 [INFO] akofink issued server command: give akofink 57 64
+2011-08-20 12:05:54 [INFO] akofink: Giving akofink some 57
+2011-08-20 12:08:53 [INFO] akofink issued server command: give akofink 65 64
+2011-08-20 12:08:53 [INFO] akofink: Giving akofink some 65
+2011-08-20 12:09:30 [INFO] akofink issued server command: give akofink 57 64
+2011-08-20 12:09:30 [INFO] akofink: Giving akofink some 57
+2011-08-20 12:14:10 [INFO] akofink issued server command: give akofink 57 64
+2011-08-20 12:14:10 [INFO] akofink: Giving akofink some 57
+2011-08-20 12:15:40 [INFO] akofink issued server command: time set 7000
+2011-08-20 12:15:40 [INFO] akofink: Set time to 7000
+2011-08-20 12:18:31 [INFO] akofink issued server command: give akofink 57 64
+2011-08-20 12:18:31 [INFO] akofink: Giving akofink some 57
+2011-08-20 12:18:37 [INFO] akofink issued server command: give akofink 57 64
+2011-08-20 12:18:37 [INFO] akofink: Giving akofink some 57
+2011-08-20 12:19:59 [INFO] akofink issued server command: time set 7000
+2011-08-20 12:19:59 [INFO] akofink: Set time to 7000
+2011-08-20 12:23:51 [INFO] akofink issued server command: give akofink 57 64
+2011-08-20 12:23:51 [INFO] akofink: Giving akofink some 57
+2011-08-20 12:26:28 [INFO] akofink issued server command: time set 7000
+2011-08-20 12:26:28 [INFO] akofink: Set time to 7000
+2011-08-20 12:30:50 [INFO] akofink issued server command: time set 7000
+2011-08-20 12:30:50 [INFO] akofink: Set time to 7000
+2011-08-20 12:35:08 [INFO] akofink issued server command: time set 7000
+2011-08-20 12:35:08 [INFO] akofink: Set time to 7000
+2011-08-20 12:39:42 [INFO] akofink issued server command: time set 7000
+2011-08-20 12:39:42 [INFO] akofink: Set time to 7000
+2011-08-20 12:41:07 [INFO] akofink issued server command: give akofink 333
+2011-08-20 12:41:07 [INFO] akofink: Giving akofink some 333
+2011-08-20 12:42:07 [INFO] akofink issued server command: give akofink 5 64
+2011-08-20 12:42:07 [INFO] akofink: Giving akofink some 5
+2011-08-20 12:43:59 [INFO] akofink issued server command: time set 7000
+2011-08-20 12:43:59 [INFO] akofink: Set time to 7000
+2011-08-20 12:45:44 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2011-08-20 12:45:59 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2011-08-20 12:48:11 [INFO] akofink issued server command: give akofink 333
+2011-08-20 12:48:11 [INFO] akofink: Giving akofink some 333
+2011-08-20 12:48:23 [INFO] akofink issued server command: time set 7000
+2011-08-20 12:48:23 [INFO] akofink: Set time to 7000
+2011-08-20 12:50:37 [INFO] akofink issued server command: give akofink 10 64
+2011-08-20 12:50:37 [INFO] akofink: Giving akofink some 10
+2011-08-20 12:52:46 [INFO] akofink issued server command: time set 7000
+2011-08-20 12:52:46 [INFO] akofink: Set time to 7000
+2011-08-20 12:53:56 [INFO] akofink issued server command: give akofink 8 64
+2011-08-20 12:53:56 [INFO] akofink: Giving akofink some 8
+2011-08-20 12:54:05 [INFO] akofink issued server command: give akofink 8 64
+2011-08-20 12:54:05 [INFO] akofink: Giving akofink some 8
+2011-08-20 12:55:02 [INFO] akofink issued server command: give akofink 0 64
+2011-08-20 12:57:03 [INFO] akofink issued server command: time set 7000
+2011-08-20 12:57:03 [INFO] akofink: Set time to 7000
+2011-08-20 12:58:31 [INFO] akofink issued server command: give akofink 10 64
+2011-08-20 12:58:31 [INFO] akofink: Giving akofink some 10
+2011-08-20 13:02:50 [INFO] akofink issued server command: give akofink 322 64
+2011-08-20 13:02:50 [INFO] akofink: Giving akofink some 322
+2011-08-20 13:04:23 [INFO] akofink issued server command: give akofink 96
+2011-08-20 13:04:23 [INFO] akofink: Giving akofink some 96
+2011-08-20 13:04:56 [INFO] akofink issued server command: give akofink 96
+2011-08-20 13:04:56 [INFO] akofink: Giving akofink some 96
+2011-08-20 13:08:57 [INFO] akofink issued server command: give akofink 50 64
+2011-08-20 13:08:57 [INFO] akofink: Giving akofink some 50
+2011-08-20 13:11:39 [INFO] akofink issued server command: give akofink 57 64
+2011-08-20 13:11:39 [INFO] akofink: Giving akofink some 57
+2011-08-20 13:17:46 [INFO] akofink issued server command: give akofink 6:2 64
+2011-08-20 13:18:05 [INFO] akofink issued server command: give akofink 6.2
+2011-08-20 13:18:11 [INFO] akofink issued server command: give akofink 6:2
+2011-08-20 13:18:21 [INFO] akofink issued server command: give akofink 6 64
+2011-08-20 13:18:21 [INFO] akofink: Giving akofink some 6
+2011-08-20 13:26:08 [INFO] blazinblocks [/152.7.5.142:59482] logged in with entity id 43141 at (-86.5, 67.62000000476837, 213.5)
+2011-08-20 13:28:02 [INFO] blazinblocks tried command: give blazinblocks 1 64
+2011-08-20 13:28:19 [INFO] <akofink> hi blazinblocks
+2011-08-20 13:28:22 [INFO] <blazinblocks> hola
+2011-08-20 13:28:27 [INFO] akofink issued server command: op blazinblocks
+2011-08-20 13:28:27 [INFO] akofink: Opping blazinblocks
+2011-08-20 13:28:32 [INFO] <blazinblocks> woo
+2011-08-20 13:28:40 [INFO] <akofink> you know the codes>
+2011-08-20 13:28:40 [INFO] blazinblocks issued server command: give blazinblocks 1 64
+2011-08-20 13:28:40 [INFO] blazinblocks: Giving blazinblocks some 1
+2011-08-20 13:28:47 [INFO] <blazinblocks> yeah i know em all
+2011-08-20 13:28:52 [INFO] <akofink> climb up here
+2011-08-20 13:29:33 [INFO] <akofink> haha
+2011-08-20 13:29:43 [INFO] <blazinblocks> cool, haha. i think evryone makes oen of these
+2011-08-20 13:29:45 [INFO] <akofink> this is as high as it would let me
+2011-08-20 13:29:55 [INFO] <akofink> yeah. and mine to the center of the earth.
+2011-08-20 13:32:29 [INFO] <akofink> give akofink 65 64
+2011-08-20 13:32:40 [INFO] <akofink> whoops haha
+2011-08-20 13:32:48 [INFO] akofink issued server command: give akofink 65 64
+2011-08-20 13:32:48 [INFO] akofink: Giving akofink some 65
+2011-08-20 13:33:37 [INFO] akofink issued server command: give akofink 96
+2011-08-20 13:33:37 [INFO] akofink: Giving akofink some 96
+2011-08-20 13:33:58 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2011-08-20 13:34:14 [INFO] akofink issued server command: time set 10000
+2011-08-20 13:34:14 [INFO] akofink: Set time to 10000
+2011-08-20 13:39:31 [INFO] blazinblocks lost connection: disconnect.quitting
+2011-08-20 13:39:33 [INFO] blazinblocks [/152.7.5.142:59533] logged in with entity id 49301 at (-95.625, 66.0, 191.03125)
+2011-08-20 13:48:35 [INFO] akofink issued server command: list
+2011-08-20 13:49:06 [INFO] akofink issued server command: give blazinblocks 322 5
+2011-08-20 13:49:06 [INFO] akofink: Giving blazinblocks some 322
+2011-08-20 13:49:13 [INFO] <blazinblocks> thanks
+2011-08-20 13:49:15 [INFO] <akofink> np
+2011-08-20 13:55:44 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2011-08-20 13:56:47 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2011-08-20 13:57:00 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2011-08-20 13:57:09 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2011-08-20 13:57:20 [INFO] <akofink> glitchy
+2011-08-20 13:58:11 [INFO] blazinblocks issued server command: set time 0
+2011-08-20 13:58:11 [INFO] Unknown console command. Type "help" for help.
+2011-08-20 13:58:16 [INFO] blazinblocks issued server command: time set 0
+2011-08-20 13:58:16 [INFO] blazinblocks: Set time to 0
+2011-08-20 13:59:07 [INFO] akofink issued server command: give akofink 54 2
+2011-08-20 13:59:07 [INFO] akofink: Giving akofink some 54
+2011-08-20 14:05:28 [INFO] akofink issued server command: give akofink 46 5
+2011-08-20 14:05:28 [INFO] akofink: Giving akofink some 46
+2011-08-20 14:08:35 [INFO] akofink issued server command: give akofink 55 20
+2011-08-20 14:08:35 [INFO] akofink: Giving akofink some 55
+2011-08-20 14:10:35 [INFO] akofink issued server command: give akofink 259
+2011-08-20 14:10:35 [INFO] akofink: Giving akofink some 259
+2011-08-20 14:11:55 [INFO] akofink lost connection: disconnect.quitting
+2011-08-20 14:11:59 [INFO] akofink [/152.7.5.138:37459] logged in with entity id 69519 at (-86.49198614053464, 5.0, 294.97233448842303)
+2011-08-20 14:12:26 [INFO] akofink issued server command: give akofink 326
+2011-08-20 14:12:26 [INFO] akofink: Giving akofink some 326
+2011-08-20 14:12:57 [INFO] blazinblocks issued server command: time set 0
+2011-08-20 14:12:57 [INFO] blazinblocks: Set time to 0
+2011-08-20 14:13:08 [INFO] blazinblocks issued server command: set time 0
+2011-08-20 14:13:08 [INFO] Unknown console command. Type "help" for help.
+2011-08-20 14:14:47 [INFO] <akofink> I blasted tit with tnt
+2011-08-20 14:14:59 [INFO] <blazinblocks> ahh cool lol, thats quite an agressive strategy
+2011-08-20 14:15:10 [INFO] <akofink> i was tired of minint
+2011-08-20 14:15:43 [INFO] akofink issued server command: give akofink 46 10
+2011-08-20 14:15:43 [INFO] akofink: Giving akofink some 46
+2011-08-20 14:17:11 [INFO] akofink issued server command: give akofink 322
+2011-08-20 14:17:11 [INFO] akofink: Giving akofink some 322
+2011-08-20 14:17:23 [INFO] blazinblocks issued server command: give blazinblocks 287 1
+2011-08-20 14:17:23 [INFO] blazinblocks: Giving blazinblocks some 287
+2011-08-20 14:17:34 [INFO] blazinblocks issued server command: give blazinblocks 278 1
+2011-08-20 14:17:34 [INFO] blazinblocks: Giving blazinblocks some 278
+2011-08-20 14:17:45 [INFO] blazinblocks issued server command: give blazinblocks 65 64
+2011-08-20 14:17:45 [INFO] blazinblocks: Giving blazinblocks some 65
+2011-08-20 14:17:52 [INFO] blazinblocks issued server command: give blazinblocks 50 65
+2011-08-20 14:17:52 [INFO] blazinblocks: Giving blazinblocks some 50
+2011-08-20 14:17:59 [INFO] akofink lost connection: disconnect.quitting
+2011-08-20 14:18:03 [INFO] akofink [/152.7.5.138:44168] logged in with entity id 73900 at (-86.69999998807907, 5.0, 300.0834524716593)
+2011-08-20 14:18:43 [INFO] blazinblocks issued server command: give blazinblocks 1 64
+2011-08-20 14:18:43 [INFO] blazinblocks: Giving blazinblocks some 1
+2011-08-20 14:18:53 [INFO] blazinblocks issued server command: give blazinblocks 1 64
+2011-08-20 14:18:53 [INFO] blazinblocks: Giving blazinblocks some 1
+2011-08-20 14:21:48 [INFO] blazinblocks issued server command: give blazinblocks 50 64
+2011-08-20 14:21:48 [INFO] blazinblocks: Giving blazinblocks some 50
+2011-08-20 14:22:01 [INFO] blazinblocks issued server command: give blazinblocks 4 64
+2011-08-20 14:22:01 [INFO] blazinblocks: Giving blazinblocks some 4
+2011-08-20 14:23:36 [INFO] akofink issued server command: give akofink 46 65
+2011-08-20 14:23:36 [INFO] akofink: Giving akofink some 46
+2011-08-20 14:24:41 [INFO] akofink lost connection: disconnect.quitting
+2011-08-20 14:24:45 [INFO] akofink [/152.7.5.138:38735] logged in with entity id 80300 at (-86.43399936963156, 5.0, 290.7861116443987)
+2011-08-20 14:25:26 [INFO] akofink issued server command: give akofink 50 64
+2011-08-20 14:25:26 [INFO] akofink: Giving akofink some 50
+2011-08-20 14:29:04 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2011-08-20 14:31:11 [INFO] akofink issued server command: give akofink 55 64
+2011-08-20 14:31:11 [INFO] akofink: Giving akofink some 55
+2011-08-20 14:32:33 [INFO] blazinblocks issued server command: give blazinblocks 4 64
+2011-08-20 14:32:33 [INFO] blazinblocks: Giving blazinblocks some 4
+2011-08-20 14:33:04 [INFO] akofink issued server command: give akofink 77
+2011-08-20 14:33:04 [INFO] akofink: Giving akofink some 77
+2011-08-20 14:33:43 [INFO] akofink issued server command: give akofink 75
+2011-08-20 14:33:43 [INFO] akofink: Giving akofink some 75
+2011-08-20 14:33:47 [INFO] blazinblocks issued server command: give blazinblocks 65 64
+2011-08-20 14:33:47 [INFO] blazinblocks: Giving blazinblocks some 65
+2011-08-20 14:34:32 [INFO] blazinblocks issued server command: give blazinblcks 4 64
+2011-08-20 14:34:42 [INFO] blazinblocks issued server command: give blazinblocks 4 64
+2011-08-20 14:34:42 [INFO] blazinblocks: Giving blazinblocks some 4
+2011-08-20 14:36:49 [INFO] akofink issued server command: give akofink 27 64
+2011-08-20 14:36:49 [INFO] akofink: Giving akofink some 27
+2011-08-20 14:38:21 [INFO] akofink issued server command: give akofink 343
+2011-08-20 14:38:21 [INFO] akofink: Giving akofink some 343
+2011-08-20 14:39:53 [INFO] akofink issued server command: give akofink 328
+2011-08-20 14:39:53 [INFO] akofink: Giving akofink some 328
+2011-08-20 14:40:09 [INFO] blazinblocks issued server command: give blazinblocks 1 64
+2011-08-20 14:40:09 [INFO] blazinblocks: Giving blazinblocks some 1
+2011-08-20 14:40:17 [INFO] blazinblocks issued server command: give blazinblocks 4 64
+2011-08-20 14:40:17 [INFO] blazinblocks: Giving blazinblocks some 4
+2011-08-20 14:44:16 [INFO] blazinblocks issued server command: list
+2011-08-20 14:49:07 [INFO] akofink issued server command: list
+2011-08-20 14:52:41 [INFO] akofink issued server command: give akofink 57 64
+2011-08-20 14:52:41 [INFO] akofink: Giving akofink some 57
+2011-08-20 14:54:40 [INFO] akofink issued server command: give akofink 5 64
+2011-08-20 14:54:40 [INFO] akofink: Giving akofink some 5
+2011-08-20 14:56:02 [INFO] akofink issued server command: give akofink 333
+2011-08-20 14:56:02 [INFO] akofink: Giving akofink some 333
+2011-08-20 14:57:37 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2011-08-20 15:01:05 [INFO] akofink issued server command: give akofink 330
+2011-08-20 15:01:05 [INFO] akofink: Giving akofink some 330
+2011-08-20 15:02:22 [INFO] akofink issued server command: give akofink 324
+2011-08-20 15:02:22 [INFO] akofink: Giving akofink some 324
+2011-08-20 15:02:52 [INFO] akofink issued server command: give akofink 57 64
+2011-08-20 15:02:52 [INFO] akofink: Giving akofink some 57
+2011-08-20 15:03:34 [INFO] akofink issued server command: time set 7000
+2011-08-20 15:03:34 [INFO] akofink: Set time to 7000
+2011-08-20 15:04:36 [INFO] akofink issued server command: time set 20000
+2011-08-20 15:04:36 [INFO] akofink: Set time to 20000
+2011-08-20 15:04:45 [INFO] akofink issued server command: list
+2011-08-20 15:07:57 [INFO] akofink issued server command: tp akofink blazinblocks
+2011-08-20 15:07:57 [INFO] akofink: Teleporting akofink to blazinblocks.
+2011-08-20 15:08:12 [INFO] <blazinblocks> heytheya
+2011-08-20 15:08:20 [INFO] <akofink> hey
+2011-08-20 15:08:23 [INFO] <blazinblocks> ahh chat lagged too
+2011-08-20 15:08:33 [INFO] <akofink> haha
+2011-08-20 15:08:37 [INFO] <blazinblocks> just gettin some lather
+2011-08-20 15:08:41 [INFO] <blazinblocks> leather
+2011-08-20 15:08:54 [INFO] <akofink> do you know where you are?
+2011-08-20 15:08:59 [INFO] <blazinblocks> mhmm
+2011-08-20 15:09:21 [INFO] akofink issued server command: give akofink 358
+2011-08-20 15:09:21 [INFO] akofink: Giving akofink some 358
+2011-08-20 15:10:10 [INFO] <blazinblocks> your house is still in view in the distance
+2011-08-20 15:11:50 [INFO] <blazinblocks> eh its a start
+2011-08-20 15:12:16 [INFO] akofink issued server command: give akofink 46 64
+2011-08-20 15:12:16 [INFO] akofink: Giving akofink some 46
+2011-08-20 15:13:32 [INFO] blazinblocks issued server command: give blazinblocks 238 1
+2011-08-20 15:13:45 [INFO] blazinblocks issued server command: give blazinblocks 359 1
+2011-08-20 15:13:45 [INFO] blazinblocks: Giving blazinblocks some 359
+2011-08-20 15:18:00 [INFO] /152.7.5.99:49676 lost connection
+2011-08-20 15:23:29 [INFO] blazinblocks issued server command: give blazinblocks 20 64
+2011-08-20 15:23:29 [INFO] blazinblocks: Giving blazinblocks some 20
+2011-08-20 15:23:31 [INFO] akofink issued server command: give akofink 278
+2011-08-20 15:23:31 [INFO] akofink: Giving akofink some 278
+2011-08-20 15:24:35 [INFO] akofink issued server command: list
+2011-08-20 15:24:42 [INFO] akofink issued server command: give akofink 328
+2011-08-20 15:24:42 [INFO] akofink: Giving akofink some 328
+2011-08-20 15:25:03 [INFO] akofink issued server command: give akofink 62
+2011-08-20 15:25:03 [INFO] akofink: Giving akofink some 62
+2011-08-20 15:25:49 [INFO] akofink issued server command: give akofink 343
+2011-08-20 15:25:49 [INFO] akofink: Giving akofink some 343
+2011-08-20 15:25:55 [INFO] blazinblocks lost connection: disconnect.quitting
+2011-08-20 15:26:43 [INFO] akofink issued server command: list
+2011-08-20 15:27:43 [INFO] akofink issued server command: give akofink 259
+2011-08-20 15:27:43 [INFO] akofink: Giving akofink some 259
+2011-08-20 15:35:35 [INFO] blazinblocks [/152.7.5.142:60411] logged in with entity id 120969 at (63.4375, 81.0, 161.5625)
+2011-08-20 15:37:07 [INFO] blazinblocks issued server command: list
+2011-08-20 15:37:10 [INFO] <blazinblocks> sooo
+2011-08-20 15:43:55 [INFO] akofink issued server command: tp akofink blazinblocks
+2011-08-20 15:43:55 [INFO] akofink: Teleporting akofink to blazinblocks.
+2011-08-20 15:44:21 [INFO] akofink issued server command: time set 6000
+2011-08-20 15:44:21 [INFO] akofink: Set time to 6000
+2011-08-20 15:44:24 [INFO] <blazinblocks> theres a door on the other side now
+2011-08-20 15:44:41 [INFO] <akofink> it looks good. Don't worry, i won't blow it up. =]
+2011-08-20 15:44:51 [INFO] <blazinblocks> thanksssss
+2011-08-20 15:45:19 [INFO] blazinblocks issued server command: give blazinblocks 20 64
+2011-08-20 15:45:19 [INFO] blazinblocks: Giving blazinblocks some 20
+2011-08-20 15:46:38 [INFO] <blazinblocks> whered you go?
+2011-08-20 15:46:49 [INFO] <akofink> home =]
+2011-08-20 15:47:03 [INFO] <blazinblocks> ah
+2011-08-20 15:47:27 [INFO] akofink issued server command: give akofink 20 64
+2011-08-20 15:47:27 [INFO] akofink: Giving akofink some 20
+2011-08-20 15:48:09 [INFO] <blazinblocks> brb im gonna do homework 0 for 226
+2011-08-20 15:48:15 [INFO] <blazinblocks> before i forget
+2011-08-20 15:48:38 [INFO] <akofink> ok
+2011-08-20 15:49:12 [INFO] akofink issued server command: give akofink 20 64
+2011-08-20 15:49:12 [INFO] akofink: Giving akofink some 20
+2011-08-20 15:49:59 [INFO] akofink issued server command: give akofink 268
+2011-08-20 15:49:59 [INFO] akofink: Giving akofink some 268
+2011-08-20 15:50:05 [INFO] akofink issued server command: give akofink 278
+2011-08-20 15:50:05 [INFO] akofink: Giving akofink some 278
+2011-08-20 15:50:43 [INFO] akofink issued server command: give akofink 432
+2011-08-20 15:50:50 [INFO] akofink issued server command: give akofink 324
+2011-08-20 15:50:50 [INFO] akofink: Giving akofink some 324
+2011-08-20 15:51:38 [INFO] akofink issued server command: give akofink 50 64
+2011-08-20 15:51:38 [INFO] akofink: Giving akofink some 50
+2011-08-20 15:55:06 [INFO] akofink issued server command: give akofink 329
+2011-08-20 15:55:06 [INFO] akofink: Giving akofink some 329
+2011-08-20 15:55:15 [INFO] akofink issued server command: time set 6000
+2011-08-20 15:55:15 [INFO] akofink: Set time to 6000
+2011-08-20 15:59:34 [INFO] <blazinblocks> lol
+2011-08-20 15:59:38 [INFO] <akofink> haha
+2011-08-20 15:59:41 [INFO] <blazinblocks> damnit
+2011-08-20 16:01:26 [INFO] akofink lost connection: disconnect.quitting
+2011-08-20 16:01:54 [INFO] blazinblocks issued server command: give blazinblocks 5 64
+2011-08-20 16:01:54 [INFO] blazinblocks: Giving blazinblocks some 5
+2011-08-20 16:02:14 [INFO] blazinblocks issued server command: give blazinblocks 20 64
+2011-08-20 16:02:14 [INFO] blazinblocks: Giving blazinblocks some 20
+2011-08-20 16:04:31 [INFO] blazinblocks issued server command: give blazinblocks 20 64
+2011-08-20 16:04:31 [INFO] blazinblocks: Giving blazinblocks some 20
+2011-08-20 16:07:13 [INFO] blazinblocks issued server command: give blazinblocks 5 64
+2011-08-20 16:07:13 [INFO] blazinblocks: Giving blazinblocks some 5
+2011-08-20 16:07:21 [INFO] blazinblocks issued server command: give blazinblocks 50 64
+2011-08-20 16:07:21 [INFO] blazinblocks: Giving blazinblocks some 50
+2011-08-20 16:10:59 [INFO] akofink [/152.7.5.138:41757] logged in with entity id 137392 at (66.125, 85.0, 163.53125)
+2011-08-20 16:12:00 [INFO] akofink issued server command: tp akofink blazinblocks
+2011-08-20 16:12:00 [INFO] akofink: Teleporting akofink to blazinblocks.
+2011-08-20 16:12:10 [INFO] <akofink> i'm scared
+2011-08-20 16:14:02 [INFO] akofink issued server command: give akofink 310 5
+2011-08-20 16:14:02 [INFO] akofink: Giving akofink some 310
+2011-08-20 16:14:11 [INFO] akofink issued server command: give akofink 311 5
+2011-08-20 16:14:11 [INFO] akofink: Giving akofink some 311
+2011-08-20 16:14:17 [INFO] akofink issued server command: give akofink 312 5
+2011-08-20 16:14:17 [INFO] akofink: Giving akofink some 312
+2011-08-20 16:14:25 [INFO] akofink issued server command: give akofink 313 5
+2011-08-20 16:14:25 [INFO] akofink: Giving akofink some 313
+2011-08-20 16:15:11 [INFO] akofink issued server command: give akofink 322 64
+2011-08-20 16:15:11 [INFO] akofink: Giving akofink some 322
+2011-08-20 16:15:42 [INFO] akofink issued server command: give akofink 276 5
+2011-08-20 16:15:42 [INFO] akofink: Giving akofink some 276
+2011-08-20 16:15:47 [INFO] akofink issued server command: give akofink 277 5
+2011-08-20 16:15:47 [INFO] akofink: Giving akofink some 277
+2011-08-20 16:15:55 [INFO] akofink issued server command: give akofink 278 5
+2011-08-20 16:15:55 [INFO] akofink: Giving akofink some 278
+2011-08-20 16:16:01 [INFO] akofink issued server command: give akofink 279 5
+2011-08-20 16:16:01 [INFO] akofink: Giving akofink some 279
+2011-08-20 16:16:49 [INFO] akofink issued server command: give akofink 259 5
+2011-08-20 16:16:49 [INFO] akofink: Giving akofink some 259
+2011-08-20 16:17:13 [INFO] akofink issued server command: give akofink 62
+2011-08-20 16:17:13 [INFO] akofink: Giving akofink some 62
+2011-08-20 16:17:37 [INFO] akofink issued server command: give akofink 54 6
+2011-08-20 16:17:37 [INFO] akofink: Giving akofink some 54
+2011-08-20 16:20:10 [INFO] blazinblocks lost connection: disconnect.quitting
+2011-08-20 16:21:30 [INFO] akofink issued server command: give akofink 310 5
+2011-08-20 16:21:30 [INFO] akofink: Giving akofink some 310
+2011-08-20 16:21:35 [INFO] akofink issued server command: give akofink 312 10
+2011-08-20 16:21:35 [INFO] akofink: Giving akofink some 312
+2011-08-20 16:23:31 [INFO] akofink issued server command: give akofink 261 5
+2011-08-20 16:23:31 [INFO] akofink: Giving akofink some 261
+2011-08-20 16:24:02 [INFO] akofink issued server command: give akofink 262 1000
+2011-08-20 16:24:02 [INFO] akofink: Giving akofink some 262
+2011-08-20 16:24:13 [INFO] <akofink> give akofink 262 64
+2011-08-20 16:24:22 [INFO] akofink issued server command: give akofink 262 64
+2011-08-20 16:24:22 [INFO] akofink: Giving akofink some 262
+2011-08-20 16:25:10 [INFO] akofink issued server command: give akofink 90
+2011-08-20 16:25:10 [INFO] akofink: Giving akofink some 90
+2011-08-20 16:25:40 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2011-08-20 16:25:43 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2011-08-20 16:26:46 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2011-08-20 16:28:09 [INFO] akofink issued server command: give akofink 50 64
+2011-08-20 16:28:09 [INFO] akofink: Giving akofink some 50
+2011-08-20 16:34:02 [INFO] akofink issued server command: give akofink 20 643
+2011-08-20 16:34:02 [INFO] akofink: Giving akofink some 20
+2011-08-20 16:37:34 [INFO] akofink issued server command: give akofink 345
+2011-08-20 16:37:34 [INFO] akofink: Giving akofink some 345
+2011-08-20 16:42:44 [INFO] akofink issued server command: give akofink 262 64
+2011-08-20 16:42:44 [INFO] akofink: Giving akofink some 262
+2011-08-20 16:45:20 [INFO] akofink issued server command: give akofink 278
+2011-08-20 16:45:20 [INFO] akofink: Giving akofink some 278
+2011-08-20 16:50:16 [INFO] akofink issued server command: give akofink 263 64
+2011-08-20 16:50:16 [INFO] akofink: Giving akofink some 263
+2011-08-20 16:51:26 [INFO] akofink issued server command: give akofink 27 64
+2011-08-20 16:51:26 [INFO] akofink: Giving akofink some 27
+2011-08-20 16:52:28 [INFO] akofink issued server command: give akofink 66 64
+2011-08-20 16:52:28 [INFO] akofink: Giving akofink some 66
+2011-08-20 16:53:14 [INFO] akofink issued server command: give akofink 328 5
+2011-08-20 16:53:14 [INFO] akofink: Giving akofink some 328
+2011-08-20 16:53:40 [INFO] akofink issued server command: give akofink 50 64
+2011-08-20 16:53:40 [INFO] akofink: Giving akofink some 50
+2011-08-20 16:57:41 [INFO] akofink issued server command: give akofink 277
+2011-08-20 16:57:41 [INFO] akofink: Giving akofink some 277
+2011-08-20 17:00:47 [INFO] akofink issued server command: give akofink 343
+2011-08-20 17:00:47 [INFO] akofink: Giving akofink some 343
+2011-08-20 17:06:02 [INFO] akofink issued server command: give akofink 66 64
+2011-08-20 17:06:02 [INFO] akofink: Giving akofink some 66
+2011-08-20 17:08:10 [INFO] akofink issued server command: give akofink 343
+2011-08-20 17:08:10 [INFO] akofink: Giving akofink some 343
+2011-08-20 17:11:48 [INFO] <akofink> give akofink 66 64
+2011-08-20 17:11:56 [INFO] akofink issued server command: give akofink 66 64
+2011-08-20 17:11:56 [INFO] akofink: Giving akofink some 66
+2011-08-20 17:16:32 [INFO] akofink issued server command: give akofink 57 64
+2011-08-20 17:16:32 [INFO] akofink: Giving akofink some 57
+2011-08-20 17:18:11 [INFO] akofink issued server command: give akofink 89 64
+2011-08-20 17:18:11 [INFO] akofink: Giving akofink some 89
+2011-08-20 17:18:31 [INFO] akofink issued server command: give akofink 89 64
+2011-08-20 17:18:31 [INFO] akofink: Giving akofink some 89
+2011-08-20 17:25:20 [INFO] akofink issued server command: give akofink 89 64
+2011-08-20 17:25:20 [INFO] akofink: Giving akofink some 89
+2011-08-20 17:25:28 [INFO] akofink issued server command: give akofink 89 64
+2011-08-20 17:25:28 [INFO] akofink: Giving akofink some 89
+2011-08-20 17:29:35 [INFO] blazinblocks [/152.7.5.142:61540] logged in with entity id 160705 at (64.40625, 81.0, 162.1875)
+2011-08-20 17:29:41 [INFO] <akofink> hey
+2011-08-20 17:29:46 [INFO] <blazinblocks> no
+2011-08-20 17:29:51 [INFO] <blazinblocks> jk, whats up?
+2011-08-20 17:30:08 [INFO] <akofink> should be doing homework, but this is so addicting!
+2011-08-20 17:30:21 [INFO] <blazinblocks> haha yep
+2011-08-20 17:30:50 [INFO] akofink issued server command: give akofink 261
+2011-08-20 17:30:50 [INFO] akofink: Giving akofink some 261
+2011-08-20 17:31:04 [INFO] akofink issued server command: give akofink 262 64
+2011-08-20 17:31:04 [INFO] akofink: Giving akofink some 262
+2011-08-20 17:38:25 [INFO] akofink issued server command: give akofink 89 64
+2011-08-20 17:38:25 [INFO] akofink: Giving akofink some 89
+2011-08-20 17:38:29 [INFO] akofink issued server command: give akofink 89 64
+2011-08-20 17:38:29 [INFO] akofink: Giving akofink some 89
+2011-08-20 17:38:35 [INFO] akofink issued server command: give akofink 89 64
+2011-08-20 17:38:35 [INFO] akofink: Giving akofink some 89
+2011-08-20 17:41:29 [INFO] akofink issued server command: give akofink 65 74
+2011-08-20 17:41:29 [INFO] akofink: Giving akofink some 65
+2011-08-20 17:41:36 [INFO] akofink issued server command: give akofink 65 64
+2011-08-20 17:41:36 [INFO] akofink: Giving akofink some 65
+2011-08-20 17:43:25 [INFO] blazinblocks issued server command: give blazinblocks 85 64
+2011-08-20 17:43:25 [INFO] blazinblocks: Giving blazinblocks some 85
+2011-08-20 17:47:59 [INFO] akofink issued server command: give akofink 262 64
+2011-08-20 17:47:59 [INFO] akofink: Giving akofink some 262
+2011-08-20 17:48:18 [INFO] blazinblocks issued server command: give blazinblocks 261 1
+2011-08-20 17:48:18 [INFO] blazinblocks: Giving blazinblocks some 261
+2011-08-20 17:48:24 [INFO] blazinblocks issued server command: give blazinblocks 262 64
+2011-08-20 17:48:24 [INFO] blazinblocks: Giving blazinblocks some 262
+2011-08-20 17:50:23 [INFO] akofink issued server command: give akofink 20 64
+2011-08-20 17:50:23 [INFO] akofink: Giving akofink some 20
+2011-08-20 17:50:29 [INFO] akofink issued server command: give akofink 20 64
+2011-08-20 17:50:29 [INFO] akofink: Giving akofink some 20
+2011-08-20 17:52:28 [INFO] blazinblocks issued server command: give blazinblocks 1 64
+2011-08-20 17:52:28 [INFO] blazinblocks: Giving blazinblocks some 1
+2011-08-20 17:53:47 [INFO] <akofink> I'm building a bridge.
+2011-08-20 17:53:51 [INFO] <blazinblocks> sweet
+2011-08-20 18:00:39 [INFO] akofink issued server command: give akofink 20 64
+2011-08-20 18:00:39 [INFO] akofink: Giving akofink some 20
+2011-08-20 18:00:44 [INFO] akofink issued server command: give akofink 20 64
+2011-08-20 18:00:44 [INFO] akofink: Giving akofink some 20
+2011-08-20 18:01:07 [INFO] akofink issued server command: give akofink 89 64
+2011-08-20 18:01:07 [INFO] akofink: Giving akofink some 89
+2011-08-20 18:01:13 [INFO] akofink issued server command: give akoifnk 89 64
+2011-08-20 18:01:32 [INFO] akofink issued server command: give akofink 89 64
+2011-08-20 18:01:32 [INFO] akofink: Giving akofink some 89
+2011-08-20 18:03:10 [INFO] akofink issued server command: time set 7000
+2011-08-20 18:03:10 [INFO] akofink: Set time to 7000
+2011-08-20 18:06:22 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2011-08-20 18:06:39 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2011-08-20 18:06:46 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2011-08-20 18:07:27 [INFO] akofink issued server command: tp akofink blazinblocks
+2011-08-20 18:07:27 [INFO] akofink: Teleporting akofink to blazinblocks.
+2011-08-20 18:07:31 [INFO] <blazinblocks> hola
+2011-08-20 18:07:39 [INFO] <akofink> haha see my bridge?
+2011-08-20 18:07:47 [INFO] <blazinblocks> yep
+2011-08-20 18:08:07 [INFO] akofink issued server command: time set 5000
+2011-08-20 18:08:07 [INFO] akofink: Set time to 5000
+2011-08-20 18:09:38 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2011-08-20 18:10:18 [INFO] Unknown console command. Type "help" for help.
+2011-08-20 18:11:00 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2011-08-20 18:39:41 [INFO] Starting minecraft server version Beta 1.7.3
+2011-08-20 18:39:42 [INFO] Loading properties
+2011-08-20 18:39:42 [INFO] Starting Minecraft server on *:25565
+2011-08-20 18:39:42 [INFO] Preparing level "world"
+2011-08-20 18:39:42 [INFO] Preparing start region for level 0
+2011-08-20 18:39:43 [INFO] Preparing spawn area: 3%
+2011-08-20 18:39:44 [INFO] Preparing spawn area: 4%
+2011-08-20 18:39:45 [INFO] Preparing spawn area: 8%
+2011-08-20 18:39:47 [INFO] Preparing spawn area: 12%
+2011-08-20 18:39:49 [INFO] Preparing spawn area: 12%
+2011-08-20 18:39:50 [INFO] Preparing spawn area: 16%
+2011-08-20 18:39:51 [INFO] Preparing spawn area: 20%
+2011-08-20 18:39:52 [INFO] Preparing spawn area: 20%
+2011-08-20 18:39:54 [INFO] Preparing spawn area: 24%
+2011-08-20 18:39:55 [INFO] Preparing spawn area: 24%
+2011-08-20 18:39:56 [INFO] Preparing spawn area: 28%
+2011-08-20 18:39:57 [INFO] Preparing spawn area: 32%
+2011-08-20 18:39:58 [INFO] Preparing spawn area: 36%
+2011-08-20 18:39:59 [INFO] Preparing spawn area: 40%
+2011-08-20 18:40:01 [INFO] Preparing spawn area: 44%
+2011-08-20 18:40:02 [INFO] Preparing spawn area: 48%
+2011-08-20 18:40:03 [INFO] Preparing spawn area: 52%
+2011-08-20 18:40:05 [INFO] Preparing spawn area: 56%
+2011-08-20 18:40:06 [INFO] Preparing spawn area: 65%
+2011-08-20 18:40:07 [INFO] Preparing spawn area: 73%
+2011-08-20 18:40:08 [INFO] Preparing spawn area: 77%
+2011-08-20 18:40:09 [INFO] Preparing spawn area: 77%
+2011-08-20 18:40:10 [INFO] Preparing spawn area: 81%
+2011-08-20 18:40:12 [INFO] Preparing spawn area: 85%
+2011-08-20 18:40:13 [INFO] Preparing spawn area: 85%
+2011-08-20 18:40:14 [INFO] Preparing spawn area: 89%
+2011-08-20 18:40:15 [INFO] Preparing spawn area: 93%
+2011-08-20 18:40:16 [INFO] Preparing spawn area: 93%
+2011-08-20 18:40:18 [INFO] Preparing spawn area: 93%
+2011-08-20 18:40:19 [INFO] Preparing spawn area: 97%
+2011-08-20 18:40:20 [INFO] Preparing start region for level 1
+2011-08-20 18:40:20 [INFO] Preparing spawn area: 0%
+2011-08-20 18:40:21 [INFO] Preparing spawn area: 93%
+2011-08-20 18:40:21 [INFO] Done (39184425692ns)! For help, type "help" or "?"
+2011-08-20 18:40:22 [INFO] blazinblocks [/152.7.5.142:61956] logged in with entity id 277 at (64.40625, 81.0, 162.1875)
+2011-08-20 18:40:32 [INFO] akofink [/152.7.5.138:36099] logged in with entity id 1589 at (66.125, 85.0, 163.53125)
+2011-08-20 18:43:29 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2011-08-20 18:44:30 [INFO] akofink lost connection: disconnect.quitting
+2011-08-20 18:46:02 [INFO] blazinblocks lost connection: disconnect.quitting
+2011-08-20 18:47:50 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2011-08-20 18:47:56 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2011-08-20 18:50:49 [INFO] Starting minecraft server version Beta 1.7.3
+2011-08-20 18:50:49 [INFO] Loading properties
+2011-08-20 18:50:49 [INFO] Starting Minecraft server on *:25565
+2011-08-20 18:50:49 [INFO] Preparing level "world"
+2011-08-20 18:50:50 [INFO] Preparing start region for level 0
+2011-08-20 18:50:51 [INFO] Preparing spawn area: 56%
+2011-08-20 18:50:51 [INFO] Preparing start region for level 1
+2011-08-20 18:50:52 [INFO] Preparing spawn area: 0%
+2011-08-20 18:50:53 [INFO] Preparing spawn area: 44%
+2011-08-20 18:50:53 [INFO] Done (3968107874ns)! For help, type "help" or "?"
+2011-08-20 18:51:04 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2011-08-20 18:53:12 [INFO] Starting minecraft server version Beta 1.7.3
+2011-08-20 18:53:12 [INFO] Loading properties
+2011-08-20 18:53:12 [INFO] Starting Minecraft server on *:25565
+2011-08-20 18:53:12 [INFO] Preparing level "world"
+2011-08-20 18:53:12 [INFO] Preparing start region for level 0
+2011-08-20 18:53:13 [INFO] Preparing spawn area: 28%
+2011-08-20 18:53:14 [INFO] Preparing spawn area: 52%
+2011-08-20 18:53:15 [INFO] Preparing spawn area: 93%
+2011-08-20 18:53:16 [INFO] Preparing start region for level 1
+2011-08-20 18:53:16 [INFO] Preparing spawn area: 61%
+2011-08-20 18:53:17 [INFO] Done (4822549194ns)! For help, type "help" or "?"
+2011-08-20 18:53:21 [INFO] Unknown console command. Type "help" for help.
+2011-08-20 19:04:42 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2011-08-20 19:06:57 [INFO] Starting minecraft server version Beta 1.7.3
+2011-08-20 19:06:57 [INFO] Loading properties
+2011-08-20 19:06:57 [INFO] Starting Minecraft server on *:25565
+2011-08-20 19:06:57 [INFO] Preparing level "world"
+2011-08-20 19:06:57 [INFO] Preparing start region for level 0
+2011-08-20 19:06:58 [INFO] Preparing spawn area: 52%
+2011-08-20 19:06:59 [INFO] Preparing start region for level 1
+2011-08-20 19:06:59 [INFO] Preparing spawn area: 36%
+2011-08-20 19:07:00 [INFO] Done (2973785744ns)! For help, type "help" or "?"
+2011-08-20 19:07:28 [INFO] akofink [/152.7.5.138:40084] logged in with entity id 186 at (-11.25, 64.0, -11.5)
+2011-08-20 19:08:34 [INFO] Unknown console command. Type "help" for help.
+2011-08-20 19:09:26 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2011-08-20 19:09:27 [INFO] akofink issued server command: time set 5000
+2011-08-20 19:09:27 [INFO] akofink: Set time to 5000
+2011-08-20 19:09:27 [INFO] akofink lost connection: disconnect.endOfStream
+2011-08-20 19:09:28 [INFO] akofink [/152.7.5.138:37687] logged in with entity id 897 at (-7.474927890185642, 64.0, -12.699999988079071)
+2011-08-20 19:09:29 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2011-08-20 19:10:48 [INFO] Starting minecraft server version Beta 1.7.3
+2011-08-20 19:10:48 [INFO] Loading properties
+2011-08-20 19:10:48 [INFO] Starting Minecraft server on *:25565
+2011-08-20 19:10:48 [INFO] Preparing level "world"
+2011-08-20 19:10:49 [INFO] Preparing start region for level 0
+2011-08-20 19:10:50 [INFO] Preparing spawn area: 53%
+2011-08-20 19:10:50 [INFO] Preparing start region for level 1
+2011-08-20 19:10:51 [INFO] Preparing spawn area: 40%
+2011-08-20 19:10:51 [INFO] Done (2933542902ns)! For help, type "help" or "?"
+2011-08-20 19:11:02 [INFO] akofink [/152.7.5.138:42634] logged in with entity id 224 at (-7.474927890185642, 64.0, -12.699999988079071)
+2011-08-20 19:11:58 [INFO] akofink issued server command: give akofink 20 64
+2011-08-20 19:11:58 [INFO] akofink: Giving akofink some 20
+2011-08-20 19:13:53 [INFO] To run the server without a gui, start it like this:
+2011-08-20 19:13:53 [INFO]    java -Xmx1024M -Xms1024M -jar minecraft_server.jar nogui
+2011-08-20 19:13:53 [INFO] Console commands:
+2011-08-20 19:13:53 [INFO]    help  or  ?               shows this message
+2011-08-20 19:13:53 [INFO]    kick <player>             removes a player from the server
+2011-08-20 19:13:53 [INFO]    ban <player>              bans a player from the server
+2011-08-20 19:13:53 [INFO]    pardon <player>           pardons a banned player so that they can connect again
+2011-08-20 19:13:53 [INFO]    ban-ip <ip>               bans an IP address from the server
+2011-08-20 19:13:53 [INFO]    pardon-ip <ip>            pardons a banned IP address so that they can connect again
+2011-08-20 19:13:53 [INFO]    op <player>               turns a player into an op
+2011-08-20 19:13:53 [INFO]    deop <player>             removes op status from a player
+2011-08-20 19:13:53 [INFO]    tp <player1> <player2>    moves one player to the same location as another player
+2011-08-20 19:13:53 [INFO]    give <player> <id> [num]  gives a player a resource
+2011-08-20 19:13:53 [INFO]    tell <player> <message>   sends a private message to a player
+2011-08-20 19:13:53 [INFO]    stop                      gracefully stops the server
+2011-08-20 19:13:53 [INFO]    save-all                  forces a server-wide level save
+2011-08-20 19:13:53 [INFO]    save-off                  disables terrain saving (useful for backup scripts)
+2011-08-20 19:13:53 [INFO]    save-on                   re-enables terrain saving
+2011-08-20 19:13:53 [INFO]    list                      lists all currently connected players
+2011-08-20 19:13:53 [INFO]    say <message>             broadcasts a message to all players
+2011-08-20 19:13:53 [INFO]    time <add|set> <amount>   adds to or sets the world time (0-24000)
+2011-08-20 19:14:37 [INFO] Unknown console command. Type "help" for help.
+2011-08-20 19:15:09 [INFO] Starting minecraft server version Beta 1.7.3
+2011-08-20 19:15:09 [INFO] Loading properties
+2011-08-20 19:15:09 [INFO] Starting Minecraft server on *:25565
+2011-08-20 19:15:09 [INFO] Preparing level "world"
+2011-08-20 19:15:09 [INFO] Preparing start region for level 0
+2011-08-20 19:15:10 [INFO] Preparing spawn area: 48%
+2011-08-20 19:15:11 [INFO] Preparing start region for level 1
+2011-08-20 19:15:11 [INFO] Preparing spawn area: 36%
+2011-08-20 19:15:12 [INFO] Done (2890514541ns)! For help, type "help" or "?"
+2011-08-20 19:15:24 [INFO] akofink [/152.7.5.138:34781] logged in with entity id 246 at (-7.474927890185642, 64.0, -12.699999988079071)
+2011-08-20 19:17:01 [INFO] akofink lost connection: disconnect.quitting
+2011-08-20 19:17:36 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2011-08-20 19:17:36 [INFO] /152.7.5.138:37380 lost connection
+2011-08-20 19:17:40 [INFO] CONSOLE: Stopping the server..
+2011-08-20 19:17:40 [INFO] Stopping server
+2011-08-20 19:17:40 [INFO] Saving chunks
+2011-08-20 19:17:41 [INFO] Saving chunks
+2011-08-20 19:17:51 [INFO] Starting minecraft server version Beta 1.7.3
+2011-08-20 19:17:51 [INFO] Loading properties
+2011-08-20 19:17:51 [INFO] Starting Minecraft server on *:25565
+2011-08-20 19:17:51 [INFO] Preparing level "world"
+2011-08-20 19:17:51 [INFO] Preparing start region for level 0
+2011-08-20 19:17:52 [INFO] Preparing spawn area: 73%
+2011-08-20 19:17:53 [INFO] Preparing start region for level 1
+2011-08-20 19:17:53 [INFO] Preparing spawn area: 65%
+2011-08-20 19:17:54 [INFO] Done (2536516250ns)! For help, type "help" or "?"
+2011-08-20 19:18:00 [INFO] akofink [/152.7.5.138:33400] logged in with entity id 177 at (-91.96543312845459, 65.0, 200.89882756482504)
+2011-08-20 19:18:13 [INFO] akofink lost connection: disconnect.quitting
+2011-08-20 19:18:40 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2011-08-20 19:18:42 [INFO] CONSOLE: Stopping the server..
+2011-08-20 19:18:42 [INFO] Stopping server
+2011-08-20 19:18:42 [INFO] Saving chunks
+2011-08-20 19:18:43 [INFO] Saving chunks
+2011-08-20 19:18:53 [INFO] Starting minecraft server version Beta 1.7.3
+2011-08-20 19:18:53 [INFO] Loading properties
+2011-08-20 19:18:53 [INFO] Starting Minecraft server on *:25565
+2011-08-20 19:18:53 [INFO] Preparing level "world"
+2011-08-20 19:18:54 [INFO] Preparing start region for level 0
+2011-08-20 19:18:55 [INFO] Preparing spawn area: 73%
+2011-08-20 19:18:55 [INFO] Preparing start region for level 1
+2011-08-20 19:18:56 [INFO] Preparing spawn area: 65%
+2011-08-20 19:18:56 [INFO] Done (2513977444ns)! For help, type "help" or "?"
+2011-08-20 19:19:04 [INFO] akofink [/152.7.5.138:44294] logged in with entity id 174 at (-89.28813263059904, 65.0, 195.82230293622163)
+2011-08-20 19:19:34 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2011-08-20 19:19:37 [INFO] CONSOLE: Stopping the server..
+2011-08-20 19:19:37 [INFO] Stopping server
+2011-08-20 19:19:37 [INFO] Saving chunks
+2011-08-20 19:19:39 [INFO] Saving chunks
+2011-08-20 19:20:04 [INFO] Starting minecraft server version Beta 1.7.3
+2011-08-20 19:20:04 [INFO] Loading properties
+2011-08-20 19:20:04 [INFO] Starting Minecraft server on *:25565
+2011-08-20 19:20:04 [INFO] Preparing level "world"
+2011-08-20 19:20:04 [INFO] Preparing start region for level 0
+2011-08-20 19:20:05 [INFO] Preparing spawn area: 73%
+2011-08-20 19:20:05 [INFO] Preparing start region for level 1
+2011-08-20 19:20:06 [INFO] Preparing spawn area: 65%
+2011-08-20 19:20:06 [INFO] Done (2506844219ns)! For help, type "help" or "?"
+2011-08-20 19:20:13 [INFO] akofink [/152.7.5.138:47763] logged in with entity id 164 at (-89.3125, 65.0, 195.8125)
+2011-08-20 19:20:50 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2011-08-20 19:20:50 [INFO] akofink issued server command: time set 6000
+2011-08-20 19:20:50 [INFO] akofink: Set time to 6000
+2011-08-20 19:20:51 [INFO] akofink lost connection: disconnect.endOfStream
+2011-08-20 19:20:53 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2011-08-20 19:20:59 [INFO] akofink [/152.7.5.138:33337] logged in with entity id 226 at (-89.3125, 65.0, 195.8125)
+2011-08-20 19:21:25 [INFO] akofink lost connection: disconnect.quitting
+2011-08-20 19:22:15 [INFO] CONSOLE: Stopping the server..
+2011-08-20 19:22:15 [INFO] Stopping server
+2011-08-20 19:22:15 [INFO] Saving chunks
+2011-08-20 19:22:16 [INFO] Saving chunks
+2011-08-20 19:23:08 [INFO] Starting minecraft server version Beta 1.7.3
+2011-08-20 19:23:08 [INFO] Loading properties
+2011-08-20 19:23:08 [INFO] Starting Minecraft server on *:25565
+2011-08-20 19:23:08 [INFO] Preparing level "world"
+2011-08-20 19:23:08 [INFO] Preparing start region for level 0
+2011-08-20 19:23:09 [INFO] Preparing spawn area: 73%
+2011-08-20 19:23:09 [INFO] Preparing start region for level 1
+2011-08-20 19:23:10 [INFO] Preparing spawn area: 65%
+2011-08-20 19:23:10 [INFO] Done (2538331042ns)! For help, type "help" or "?"
+2011-08-20 19:23:28 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2011-08-20 19:23:36 [INFO] akofink [/152.7.5.138:34757] logged in with entity id 160 at (-89.3125, 65.0, 195.8125)
+2011-08-20 19:23:58 [INFO] akofink lost connection: disconnect.quitting
+2011-08-20 19:25:08 [INFO] akofink [/152.7.5.138:42604] logged in with entity id 223 at (-89.3125, 65.0, 195.8125)
+2011-08-20 19:25:20 [INFO] akofink lost connection: disconnect.quitting
+2011-08-20 19:27:41 [INFO] akofink [/152.7.5.138:36616] logged in with entity id 338 at (-89.3125, 65.0, 195.8125)
+2011-08-20 19:28:17 [INFO] akofink issued server command: give akofink 98 64
+2011-08-20 19:28:26 [INFO] akofink issued server command: give akofink 89 64
+2011-08-20 19:28:26 [INFO] akofink: Giving akofink some 89
+2011-08-20 19:28:31 [INFO] akofink issued server command: give akofink 89 64
+2011-08-20 19:28:31 [INFO] akofink: Giving akofink some 89
+2011-08-20 19:28:43 [INFO] akofink issued server command: give akofink 20 64
+2011-08-20 19:28:43 [INFO] akofink: Giving akofink some 20
+2011-08-20 19:28:49 [INFO] akofink issued server command: give akofink 20 64
+2011-08-20 19:28:49 [INFO] akofink: Giving akofink some 20
+2011-08-20 19:29:27 [INFO] <akofink> list
+2011-08-20 19:29:31 [INFO] akofink issued server command: list
+2011-08-20 19:35:36 [INFO] akofink issued server command: give akofink 287
+2011-08-20 19:35:36 [INFO] akofink: Giving akofink some 287
+2011-08-20 19:35:59 [INFO] akofink issued server command: give akofink 278
+2011-08-20 19:35:59 [INFO] akofink: Giving akofink some 278
+2011-08-20 19:37:52 [INFO] akofink issued server command: give akofink 87 64
+2011-08-20 19:37:52 [INFO] akofink: Giving akofink some 87
+2011-08-20 19:38:33 [INFO] akofink issued server command: time set 18000
+2011-08-20 19:38:33 [INFO] akofink: Set time to 18000
+2011-08-20 19:39:23 [INFO] akofink issued server command: give akofink 89 64
+2011-08-20 19:39:23 [INFO] akofink: Giving akofink some 89
+2011-08-20 19:40:02 [INFO] akofink issued server command: time set 7000
+2011-08-20 19:40:02 [INFO] akofink: Set time to 7000
+2011-08-20 19:43:49 [INFO] akofink issued server command: give akofink 355
+2011-08-20 19:43:49 [INFO] akofink: Giving akofink some 355
+2011-08-20 19:44:34 [INFO] blazinblocks [/152.7.5.142:62041] logged in with entity id 11823 at (64.40625, 81.0, 162.1875)
+2011-08-20 19:44:43 [INFO] akofink issued server command: tp akofink blazinblocks
+2011-08-20 19:44:43 [INFO] akofink: Teleporting akofink to blazinblocks.
+2011-08-20 19:45:11 [INFO] <blazinblocks> sometimes if u teleport really far youll want to disconect and then reconect
+2011-08-20 19:45:22 [INFO] akofink lost connection: disconnect.quitting
+2011-08-20 19:45:26 [INFO] akofink [/152.7.5.138:33367] logged in with entity id 12328 at (66.05051483215317, 88.0, 168.34333782670106)
+2011-08-20 19:45:43 [INFO] <akofink> haha yeah i was infinitely falling or something
+2011-08-20 19:46:32 [INFO] akofink issued server command: give akofink 89 64
+2011-08-20 19:46:32 [INFO] akofink: Giving akofink some 89
+2011-08-20 19:46:38 [INFO] akofink issued server command: give akofink 89 64
+2011-08-20 19:46:38 [INFO] akofink: Giving akofink some 89
+2011-08-20 19:46:47 [INFO] akofink issued server command: give akofink 20 64
+2011-08-20 19:46:47 [INFO] akofink: Giving akofink some 20
+2011-08-20 19:46:51 [INFO] akofink issued server command: give akofink 20 64
+2011-08-20 19:46:51 [INFO] akofink: Giving akofink some 20
+2011-08-20 19:48:06 [INFO] akofink issued server command: give akofink 322
+2011-08-20 19:48:06 [INFO] akofink: Giving akofink some 322
+2011-08-20 19:48:22 [INFO] <blazinblocks> get some armor too, i think it lessens fall damage some
+2011-08-20 19:50:20 [INFO] blazinblocks issued server command: give blazinblocks 20 64
+2011-08-20 19:50:20 [INFO] blazinblocks: Giving blazinblocks some 20
+2011-08-20 19:51:35 [INFO] <blazinblocks> crap. i fell, still alive but im surrounded
+2011-08-20 19:52:45 [INFO] blazinblocks issued server command: give blazinblocks 20 64
+2011-08-20 19:52:45 [INFO] blazinblocks: Giving blazinblocks some 20
+2011-08-20 19:53:49 [INFO] akofink issued server command: give akofink 20 64
+2011-08-20 19:53:49 [INFO] akofink: Giving akofink some 20
+2011-08-20 19:54:40 [INFO] akofink issued server command: give akofink 310
+2011-08-20 19:54:40 [INFO] akofink: Giving akofink some 310
+2011-08-20 19:54:44 [INFO] akofink issued server command: give akofink 311
+2011-08-20 19:54:44 [INFO] akofink: Giving akofink some 311
+2011-08-20 19:54:48 [INFO] akofink issued server command: give akofink 312
+2011-08-20 19:54:48 [INFO] akofink: Giving akofink some 312
+2011-08-20 19:54:59 [INFO] akofink issued server command: give akofink 313
+2011-08-20 19:54:59 [INFO] akofink: Giving akofink some 313
+2011-08-20 19:55:04 [INFO] blazinblocks issued server command: give blazinblocks 20 64
+2011-08-20 19:55:04 [INFO] blazinblocks: Giving blazinblocks some 20
+2011-08-20 19:55:10 [INFO] akofink issued server command: give akofink 322
+2011-08-20 19:55:10 [INFO] akofink: Giving akofink some 322
+2011-08-20 19:58:16 [INFO] akofink issued server command: give akofink 66 64
+2011-08-20 19:58:16 [INFO] akofink: Giving akofink some 66
+2011-08-20 19:58:23 [INFO] akofink issued server command: give akofink 66 64
+2011-08-20 19:58:23 [INFO] akofink: Giving akofink some 66
+2011-08-20 19:58:27 [INFO] akofink issued server command: give akofink 27 64
+2011-08-20 19:58:27 [INFO] akofink: Giving akofink some 27
+2011-08-20 19:59:45 [INFO] akofink issued server command: give akofink 66 64
+2011-08-20 19:59:45 [INFO] akofink: Giving akofink some 66
+2011-08-20 19:59:57 [INFO] <blazinblocks> hey im on the eclipse website, my previous install isnt working, w/e which version do we install aga
+2011-08-20 20:00:05 [INFO] <blazinblocks> again? *
+2011-08-20 20:00:17 [INFO] <akofink> probably the newest
+2011-08-20 20:00:46 [INFO] <blazinblocks> well... i knew that much, nevermind, theres just a buncha options. dumb question
+2011-08-20 20:03:37 [INFO] akofink issued server command: give akofink 76 64
+2011-08-20 20:03:37 [INFO] akofink: Giving akofink some 76
+2011-08-20 20:04:09 [INFO] akofink issued server command: give akofink 30
+2011-08-20 20:04:09 [INFO] akofink: Giving akofink some 30
+2011-08-20 20:06:55 [INFO] akofink issued server command: give akofink 55 64
+2011-08-20 20:06:55 [INFO] akofink: Giving akofink some 55
+2011-08-20 20:07:04 [INFO] akofink issued server command: give akofink 55 64
+2011-08-20 20:07:04 [INFO] akofink: Giving akofink some 55
+2011-08-20 20:13:30 [INFO] <akofink> don't we want these on the end to be brakes?
+2011-08-20 20:14:24 [INFO] akofink issued server command: give akofink 328
+2011-08-20 20:14:24 [INFO] akofink: Giving akofink some 328
+2011-08-20 20:14:31 [INFO] <blazinblocks> carts are kindda jumpy but work
+2011-08-20 20:17:00 [INFO] <akofink> they get stuck here haha
+2011-08-20 20:18:49 [INFO] <blazinblocks> im super distracted, doign that tutorial thing now for 216 so i dont forget to
+2011-08-20 20:19:20 [INFO] akofink lost connection: disconnect.quitting
+2011-08-20 20:37:36 [INFO] blazinblocks lost connection: disconnect.quitting
+2011-08-20 21:07:51 [INFO] akofink [/152.7.5.142:57616] logged in with entity id 36884 at (36.21875, 95.0, 175.5625)
+2011-08-20 21:08:10 [INFO] blazinblocks [/152.7.5.142:62934] logged in with entity id 37153 at (68.65625, 91.0, 165.75)
+2011-08-20 21:08:28 [INFO] blazinblocks lost connection: disconnect.quitting
+2011-08-20 21:10:44 [INFO] akofink lost connection: disconnect.quitting
+2011-08-20 21:10:47 [INFO] blazinblocks [/152.7.5.142:62952] logged in with entity id 37908 at (56.758563183604466, 95.0, 167.3613198224164)
+2011-08-20 21:10:52 [INFO] blazinblocks lost connection: disconnect.quitting
+2011-08-20 21:10:54 [INFO] blazinblocks [/152.7.5.142:62956] logged in with entity id 38121 at (56.758563183604466, 95.0, 167.3613198224164)
+2011-08-20 21:13:38 [INFO] blazinblocks lost connection: disconnect.quitting
+2011-08-20 22:09:32 [INFO] akofink [/152.7.5.138:34497] logged in with entity id 38998 at (-86.76565647790991, 65.0, 197.7627596499916)
+2011-08-20 22:10:54 [INFO] akofink issued server command: list
+2011-08-20 22:11:53 [INFO] akofink issued server command: give akofink 278
+2011-08-20 22:11:53 [INFO] akofink: Giving akofink some 278
+2011-08-20 22:14:28 [INFO] akofink issued server command: give akofink 20 64
+2011-08-20 22:14:28 [INFO] akofink: Giving akofink some 20
+2011-08-20 22:19:02 [INFO] akofink issued server command: give akofink 3 64
+2011-08-20 22:19:02 [INFO] akofink: Giving akofink some 3
+2011-08-20 22:19:43 [INFO] akofink issued server command: give akofink 6 64
+2011-08-20 22:19:43 [INFO] akofink: Giving akofink some 6
+2011-08-20 22:20:49 [INFO] akofink issued server command: give akofink 4 64
+2011-08-20 22:20:49 [INFO] akofink: Giving akofink some 4
+2011-08-20 22:21:10 [INFO] akofink issued server command: give akofink 4 64
+2011-08-20 22:21:10 [INFO] akofink: Giving akofink some 4
+2011-08-20 22:21:14 [INFO] akofink issued server command: give akofink 4 64
+2011-08-20 22:21:14 [INFO] akofink: Giving akofink some 4
+2011-08-20 22:21:18 [INFO] akofink issued server command: give akofink 4 64
+2011-08-20 22:21:18 [INFO] akofink: Giving akofink some 4
+2011-08-20 22:21:23 [INFO] akofink issued server command: give akofink 4 64
+2011-08-20 22:21:23 [INFO] akofink: Giving akofink some 4
+2011-08-20 22:27:02 [INFO] akofink issued server command: give akofink 50 64
+2011-08-20 22:27:02 [INFO] akofink: Giving akofink some 50
+2011-08-20 22:27:25 [INFO] akofink issued server command: give akofink 261
+2011-08-20 22:27:25 [INFO] akofink: Giving akofink some 261
+2011-08-20 22:27:36 [INFO] akofink issued server command: give akofink 262 64
+2011-08-20 22:27:36 [INFO] akofink: Giving akofink some 262
+2011-08-20 22:28:22 [INFO] akofink issued server command: give akofink 262 64
+2011-08-20 22:28:22 [INFO] akofink: Giving akofink some 262
+2011-08-20 22:28:27 [INFO] akofink issued server command: give akofink 262 64
+2011-08-20 22:28:27 [INFO] akofink: Giving akofink some 262
+2011-08-20 22:31:07 [INFO] akofink issued server command: give akofink 262 64
+2011-08-20 22:31:07 [INFO] akofink: Giving akofink some 262
+2011-08-20 22:31:13 [INFO] akofink issued server command: give akofink 262 64
+2011-08-20 22:31:13 [INFO] akofink: Giving akofink some 262
+2011-08-20 22:33:52 [INFO] akofink issued server command: give akofink 69 64
+2011-08-20 22:33:52 [INFO] akofink: Giving akofink some 69
+2011-08-20 22:42:09 [INFO] <akofink> list
+2011-08-20 22:49:07 [INFO] akofink issued server command: give akofink 33 64
+2011-08-20 22:49:07 [INFO] akofink: Giving akofink some 33
+2011-08-20 23:07:42 [INFO] akofink issued server command: give akofink 20 64
+2011-08-20 23:07:42 [INFO] akofink: Giving akofink some 20
+2011-08-20 23:09:13 [INFO] akofink issued server command: give akofink 7 64
+2011-08-20 23:09:13 [INFO] akofink: Giving akofink some 7
+2011-08-20 23:10:04 [INFO] <akofink> give akofink 13 64
+2011-08-20 23:10:11 [INFO] akofink issued server command: give akofink 13 64
+2011-08-20 23:10:11 [INFO] akofink: Giving akofink some 13
+2011-08-20 23:11:03 [INFO] akofink lost connection: disconnect.quitting
+2011-08-20 23:29:55 [INFO] akofink [/152.7.5.138:48494] logged in with entity id 57649 at (-109.13961237900028, 75.0, 195.2295243042839)
+2011-08-20 23:35:15 [INFO] akofink issued server command: give akofink 52
+2011-08-20 23:35:15 [INFO] akofink: Giving akofink some 52
+2011-08-20 23:37:07 [INFO] akofink issued server command: give akofink 29 64
+2011-08-20 23:37:07 [INFO] akofink: Giving akofink some 29
+2011-08-20 23:46:13 [INFO] akofink lost connection: disconnect.quitting
+2011-08-21 09:07:09 [INFO] akofink [/152.7.5.138:40274] logged in with entity id 64746 at (-109.72526741718858, 75.0, 197.83557292882702)
+2011-08-21 09:07:19 [INFO] akofink lost connection: disconnect.quitting
+2011-08-21 11:01:07 [INFO] akofink [/152.7.5.138:34156] logged in with entity id 64858 at (-109.72526741718858, 75.0, 197.83557292882702)
+2011-08-21 11:01:15 [INFO] akofink lost connection: disconnect.quitting
+2011-08-21 11:04:36 [INFO] akofink [/152.7.5.138:43102] logged in with entity id 64968 at (-109.72526741718858, 75.0, 197.83557292882702)
+2011-08-21 11:05:17 [INFO] akofink lost connection: disconnect.endOfStream
+2011-08-21 11:12:23 [INFO] akofink [/152.7.5.138:45010] logged in with entity id 65116 at (-110.71875, 75.0, 196.75)
+2011-08-21 11:13:41 [INFO] akofink lost connection: disconnect.endOfStream
